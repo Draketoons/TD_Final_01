@@ -134,5 +134,3 @@ class EyeRiggerToolWidget(QMayaWindow):
 def Run():
     eyeRiggerToolWidget = EyeRiggerToolWidget()
     eyeRiggerToolWidget.show()
-
-Run()
